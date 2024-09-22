@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zayan-haider
 - 👀 I’m interested in programming in python, and AI
-- 🌱 I’m currently advanced python, and AI
+- 🌱 I’m currently learning advanced python, and AI
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am fourteen years old
 
